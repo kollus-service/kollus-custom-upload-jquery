@@ -1,0 +1,27 @@
+body {
+  font-weight: 300;
+}
+
+div.flashes {
+  position: fixed;
+  bottom: 1em;
+  left: 0;
+  right: 0;
+  z-index: 9999;
+  margin-left: auto;
+  margin-right: auto;
+}
+div.flashes div.alert-dismissible {
+  position: relative;
+  width: 50%;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5px;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+}
+
+th.upload-file-key { width: 150px; }
+th.transcoding-stage { width: 150px; }
+th.created-at { width: 200px; }

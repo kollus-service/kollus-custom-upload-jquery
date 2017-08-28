@@ -1,0 +1,7 @@
+/composer.phar
+/vendor/
+/config.yml
+/node_modules/
+/composer.lock
+/package-lock.json
+/.idea/

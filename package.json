@@ -1,0 +1,25 @@
+{
+  "name": "kollus-custom-upload-jquery",
+  "version": "0.0.1",
+  "description": "Kollus Custom Upload JS by JQuery",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "graceful-fs": "^4.1.11",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-header": "^1.8.9",
+    "gulp-less": "^3.3.2",
+    "lodash": "^4.17.4"
+  },
+  "scripts": {
+    "test": "`npm bin`/mocha test",
+    "build": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kollus-service/kollus-custom-upload-jquery.git"
+  },
+  "author": "Yun Young-Jin <yupmin@catenoid.net>",
+  "license": "MIT"
+}
