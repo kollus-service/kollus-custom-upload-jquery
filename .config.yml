@@ -10,4 +10,5 @@ kollus:
     key : service_account_key
     api_access_token: api_access_token
     custom_key: custom_key
+google_analytics: G-Z3BC1B4NF0
 
